@@ -1,0 +1,5 @@
+{
+  "name": "ReservaFácil",
+  "description": "Sistema de gestão de reservas para restaurantes com página de administração e cliente, integrado com lógica de disponibilidade e Google Calendar.",
+  "requestFramePermissions": []
+}
